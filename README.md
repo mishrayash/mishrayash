@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning PostgreSql<br><br>👨‍💻 All of my projects are available at https://github.com/mishrayash<br><br>💬 Ask me about Nodejs,Object Oriented Programming<br><br>📫 How to reach me mishrayash8960@gmail.com<br><br>📄 Know about my experiences https://drive.google.com/file/d/1ZhRXbCIGnIaQURXFqODV31QImcD0A4Qr/view?usp=sharing
+🌱 I’m currently learning PostgreSql<br><br>👨‍💻 All of my projects are available at https://github.com/mishrayash<br><br>💬 Ask me about Nodejs,Object Oriented Programming<br><br>📫 How to reach me mishrayash8960@gmail.com<br><br>📄 Know about my experiences https://drive.google.com/file/d/1L97qpWpkETU0MKCa09n1NEw_2Ie_2KJD/view?usp=sharing
 
 
 ## 🌐 Socials:
